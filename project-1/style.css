@@ -1,5 +1,6 @@
 body {
-  background-color:black;
+  background-image: url(asset/other-static.gif);
+  background-size: cover;
   text-align:center;
 }
 h1 {
@@ -10,9 +11,11 @@ img {
   height: 500px;
   width: 500px;
 }
-p {
-  color: blanchedalmond;
-  font-family: "Times New Roman", Times, serif;
+img:hover{
+  filter: invert();
+}
+p{
+  color: aliceblue;
 }
 a {
   color: rgb(255, 0, 0);
@@ -45,4 +48,34 @@ right: 1200px;
 width: 100px;
 height: auto;
 
+}
+.bg-bad{
+  background-image: url(asset/badending.png);
+  background-size: cover;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  font-size: 50px;
+  text-emphasis-color:brown;
+
+}
+.bg-future{
+  background-image: url(asset/future-ending.png);
+  background-size: cover;
+  text-align:center;
+  font-style: italic;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 80px;
+
+
+
+}
+.bg-love{
+  background-image: url(asset/love-ending.png);
+  background-size: cover;
+  text-align: center;
+  font-style: italic;
+  font-family:cursive;
+  font-size: 80px;
+}
+.bg-black{
+  background-image: url(asset/black.png);
 }
