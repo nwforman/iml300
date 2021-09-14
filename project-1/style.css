@@ -12,7 +12,7 @@ img {
   width: 500px;
 }
 img:hover{
-  filter: invert();
+  filter: invert() blur(100px);
 }
 p{
   color: aliceblue;
