@@ -7,7 +7,17 @@ h1 {
   text-align: center;
   font-family: "Gill Sans";
 }
+h2 {
+  color: cornsilk;
+  text-align: center;
+  font-family: "Gill Sans";
+}
 h1:hover {
+  color: yellow;
+  text-shadow: 0px 0px 50px white;
+  cursor: url("asset/starcursor.png"), auto;
+}
+h2:hover {
   color: yellow;
   text-shadow: 0px 0px 50px white;
   cursor: url("starcursor.png"), auto;
@@ -15,8 +25,11 @@ h1:hover {
 
 p {
   text-align: center;
-  color: aliceblue;
+  color: cornsilk;
 }
 a {
-  color: white;
+  color: cornsilk;
+}
+p:hover {
+  text-shadow: 0px 0px 50px white;
 }
