@@ -1,6 +1,6 @@
 The Only Way Out
 
-![demo]()
+![demo](https://github.com/nwforman/iml300/blob/main/project-1/asset/gifforsite.gif)
 
 [The Only Way Out](http://nwforman.github.io/iml300/project-1) is a multi narrative website project by Nicholas Forman.
 
