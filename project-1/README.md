@@ -2,7 +2,7 @@ The Only Way Out
 
 ![demo]()
 
-[Project 1 name](http://nwforman.github.io/iml300/project-1) is a multi narrative website project by Nicholas Forman.
+[The Only Way Out](http://nwforman.github.io/iml300/project-1) is a multi narrative website project by Nicholas Forman.
 
 ### Description
 
