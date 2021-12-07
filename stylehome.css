@@ -16,11 +16,13 @@ h1:hover {
   color: yellow;
   text-shadow: 0px 0px 50px white;
   cursor: url("asset/starcursor.png"), auto;
+  transform: rotate(180deg);
 }
 h2:hover {
   color: yellow;
   text-shadow: 0px 0px 50px white;
   cursor: url("starcursor.png"), auto;
+  transform: rotate(180deg);
 }
 
 p {
